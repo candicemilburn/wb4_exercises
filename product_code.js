@@ -24,3 +24,4 @@ console.log(`Supplier: ${label1.Supplier}
 `)
 
 console.log(`${label1.Supplier}-${label1.ProductNumber}-${label1.Size}`)
+
