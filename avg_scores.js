@@ -11,6 +11,5 @@ function getAverage(scoresArray){
     return total / scoresArray.length 
 }
 
-let average = getAverage((myScores))
 console.log(getAverage(myScores).toFixed(2));
 console.log(getAverage(yourScores).toFixed(2));
